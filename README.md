@@ -3,6 +3,9 @@
 ## Overview
 Plugin for open application page of app store, google play store and android market. It works ios and android devices.
 
+## Install
+Use unitypackage under dist folder.
+
 ## Preparation
 Set your itunes app id at UniStoreOpener.cs
 
@@ -11,9 +14,6 @@ To open each app store page
 ```cs
 UniStoreOpener.OpenStore();
 ```
-
-## Install
-Use unitypackage under dist folder.
 
 ## Licence
 
