@@ -17,7 +17,7 @@ UniStoreOpener.OpenStore();
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/sanukin39/UniStoreOpener/blob/master/LICENSE.md)
 
 ## Author
 
